@@ -9,6 +9,9 @@ servers:
     type: event
     event: forgetalia
     date: 2016-01-01
+  https://bms-chart-master.github.io/bemuse-alpha:
+    title: Bemuse Alpha
+    date: 2023-09-20
 events:
   mettatunes:
     name: METTATUNES
